@@ -1,7 +1,6 @@
 # Hi there, I'm José Luiz Mendonça (Joey)
 
 ## Quick Stats (Self-Hosted on Vercel)
-Using a self-hosted instance to avoid rate limits and keep cards always available.
 
 ![joseluizmendonca's Stats](https://github-readme-stats-855tiqj43-joseluizmendoncas-projects.vercel.app/api?username=joseluizmendonca&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
